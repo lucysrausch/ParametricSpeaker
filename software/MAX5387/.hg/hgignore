@@ -1,0 +1,27 @@
+syntax: glob
+.hg
+.git
+.svn
+.CVS
+.cvs
+*.orig
+.build
+.export
+.msub
+.meta
+.ctags*
+*.uvproj
+*.uvopt
+*.project
+*.cproject
+*.launch
+*.ewp
+*.eww
+Makefile
+Debug
+*.htm
+.mbed
+*.settings
+mbed_settings.py
+*.py[cod]
+# subrepo ignores
